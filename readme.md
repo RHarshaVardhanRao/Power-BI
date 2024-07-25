@@ -26,4 +26,3 @@ Dynamic Timeline
 The dynamic timeline enables users to filter and view data for specific date ranges. This interactive feature is useful for analyzing trends over time and understanding seasonal impacts on sales.
 
 
-Power Bi Link
